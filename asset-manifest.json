@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guadalupe/static/css/main.e8b32576.css",
-    "main.js": "/guadalupe/static/js/main.baad2839.js",
+    "main.js": "/guadalupe/static/js/main.bbbd101d.js",
     "static/js/453.1a877d93.chunk.js": "/guadalupe/static/js/453.1a877d93.chunk.js",
     "static/media/product3.jpg": "/guadalupe/static/media/product3.2c4bdcfd31e6a7388ab5.jpg",
     "static/media/product1.jpg": "/guadalupe/static/media/product1.09fc6a1a7b0cb55115da.jpg",
@@ -16,11 +16,11 @@
     "static/media/logo_white.png": "/guadalupe/static/media/logo_white.c5b8e551e213517d80a1.png",
     "index.html": "/guadalupe/index.html",
     "main.e8b32576.css.map": "/guadalupe/static/css/main.e8b32576.css.map",
-    "main.baad2839.js.map": "/guadalupe/static/js/main.baad2839.js.map",
+    "main.bbbd101d.js.map": "/guadalupe/static/js/main.bbbd101d.js.map",
     "453.1a877d93.chunk.js.map": "/guadalupe/static/js/453.1a877d93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b32576.css",
-    "static/js/main.baad2839.js"
+    "static/js/main.bbbd101d.js"
   ]
 }
