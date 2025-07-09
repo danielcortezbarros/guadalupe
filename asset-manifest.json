@@ -1,24 +1,26 @@
 {
   "files": {
     "main.css": "/guadalupe/static/css/main.e8b32576.css",
-    "main.js": "/guadalupe/static/js/main.ead4f315.js",
+    "main.js": "/guadalupe/static/js/main.baad2839.js",
     "static/js/453.1a877d93.chunk.js": "/guadalupe/static/js/453.1a877d93.chunk.js",
     "static/media/product3.jpg": "/guadalupe/static/media/product3.2c4bdcfd31e6a7388ab5.jpg",
     "static/media/product1.jpg": "/guadalupe/static/media/product1.09fc6a1a7b0cb55115da.jpg",
+    "static/media/gallery2.jpg": "/guadalupe/static/media/gallery2.43550d454f140242278a.jpg",
     "static/media/product2.jpg": "/guadalupe/static/media/product2.8433c3a750ff9e45df5e.jpg",
     "static/media/gallery1.jpg": "/guadalupe/static/media/gallery1.5fd49ba9445310ac2363.jpg",
     "static/media/iapmei.jpg": "/guadalupe/static/media/iapmei.addf611b4dde65825e20.jpg",
     "static/media/header.jpg": "/guadalupe/static/media/header.f5c64942291aa6c4c798.jpg",
     "static/media/PME_Excelencia_2020.png": "/guadalupe/static/media/PME_Excelencia_2020.da78ca3d995d7f6cca2a.png",
+    "static/media/gallery3.jpg": "/guadalupe/static/media/gallery3.3bb173e5876bcd8a27ce.jpg",
     "static/media/PME_Lider_2024.png": "/guadalupe/static/media/PME_Lider_2024.dc6ee41df1ce9345bf47.png",
     "static/media/logo_white.png": "/guadalupe/static/media/logo_white.c5b8e551e213517d80a1.png",
     "index.html": "/guadalupe/index.html",
     "main.e8b32576.css.map": "/guadalupe/static/css/main.e8b32576.css.map",
-    "main.ead4f315.js.map": "/guadalupe/static/js/main.ead4f315.js.map",
+    "main.baad2839.js.map": "/guadalupe/static/js/main.baad2839.js.map",
     "453.1a877d93.chunk.js.map": "/guadalupe/static/js/453.1a877d93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b32576.css",
-    "static/js/main.ead4f315.js"
+    "static/js/main.baad2839.js"
   ]
 }
