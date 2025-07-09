@@ -3,8 +3,8 @@ import ImageGallery from "react-image-gallery";
 import "react-image-gallery/styles/css/image-gallery.css";
 
 import gallery1 from '../assets/gallery1.jpg'
-import gallery2 from '../assets/gallery1.jpg'
-import gallery3 from '../assets/gallery1.jpg'
+import gallery2 from '../assets/gallery2.jpg'
+import gallery3 from '../assets/gallery3.jpg'
 
 const images = [
   {

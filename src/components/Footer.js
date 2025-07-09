@@ -17,7 +17,7 @@ const Footer = () => {
           </p>
         </div>
         <div className="footer-image-container">
-          <img src={`${process.env.PUBLIC_URL}/assets/iapmei.jpg`} className="footer-logo"/>
+          <img src={iapmei} className="footer-logo"/>
         </div>
       </div>
 

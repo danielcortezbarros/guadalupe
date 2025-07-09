@@ -15,12 +15,12 @@ function App() {
     <Router>
       <Layout>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/sobre-nos" element={<About />} />
-          <Route path="/produtos" element={<Products />} />
-          <Route path="/esg" element={<ESG />} />
-          <Route path="/noticias" element={<News />} />
-          <Route path="/contactos" element={<Contacts />} />
+          <Route path="/guadalupe" element={<Home />} />
+          <Route path="/guadalupe/sobre-nos" element={<About />} />
+          <Route path="/guadalupe/produtos" element={<Products />} />
+          <Route path="/guadalupe/esg" element={<ESG />} />
+          <Route path="/guadalupe/noticias" element={<News />} />
+          <Route path="/guadalupe/contactos" element={<Contacts />} />
         </Routes>
       </Layout>
     </Router>
