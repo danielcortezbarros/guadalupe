@@ -1,6 +1,9 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
+import logo from '../assets/logo_white.png'
+import header_img from '../assets/header.jpg'
+
 const Header = () => {
   const { t, i18n } = useTranslation();
   const changeLanguage = (lng) => i18n.changeLanguage(lng);
@@ -8,9 +11,9 @@ const Header = () => {
   return (
     <header className="header">
       {/* Top image section with logo */}
-      <div className="header-top" style={{ backgroundImage: `url("/assets/header.jpg")` }}>
+      <div className="header-top" style={{ backgroundImage: `url(${header_img})` }}>
         <Link to="/" className="logo-link">
-          <img src="/assets/logo_white.png" alt="Guadalupe Logo" className="logo" />
+          <img src={logo} alt="Guadalupe Logo" className="logo" />
         </Link>
       </div>
       <div className="nav-container">
