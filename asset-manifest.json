@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guadalupe/static/css/main.e8b32576.css",
+    "main.js": "/guadalupe/static/js/main.bf97f060.js",
+    "static/js/453.1a877d93.chunk.js": "/guadalupe/static/js/453.1a877d93.chunk.js",
+    "index.html": "/guadalupe/index.html",
+    "main.e8b32576.css.map": "/guadalupe/static/css/main.e8b32576.css.map",
+    "main.bf97f060.js.map": "/guadalupe/static/js/main.bf97f060.js.map",
+    "453.1a877d93.chunk.js.map": "/guadalupe/static/js/453.1a877d93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b32576.css",
+    "static/js/main.bf97f060.js"
+  ]
+}
