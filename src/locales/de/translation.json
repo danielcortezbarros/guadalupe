@@ -1,7 +1,17 @@
 {
+  "nav": {
   "about": "Über Uns",
-  "products": "Produkte",
-  "esg": "ESG",
-  "news": "Nachrichten",
-  "contact": "Kontakt"
+    "products": "Produkte & Dienstleistungen",
+    "esg": "ESG",
+    "news": "Nachrichten",
+    "contact": "Kontakt"
+  },
+  "products-page": {
+    "service1": "Produktdesign",
+    "service2": "Strickwarenentwicklung",
+    "service3": "Schnittmustererstellung, Zuschneiden, Nähen und Verpacken",
+    "service4": "Anwendung von Transfers, reflektierenden Streifen, Drucken und Stickereien"
+  }
+
+ 
 }

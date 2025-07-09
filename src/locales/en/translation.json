@@ -1,7 +1,16 @@
 {
-  "about": "About Us",
-  "products": "Products",
-  "esg": "ESG",
-  "news": "News",
-  "contact": "Contact"
+  "nav": {
+    "about": "About Us",
+    "products": "Products & Services",
+    "esg": "ESG",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "products-page": {
+    "service1": "Product Design",
+    "service2": "Knitwear Development",
+    "service3": "Pattern Making, Cutting, Sewing, and Packaging",
+    "service4": "Application of Transfers, Reflective Strips, Prints, and Embroidery"
+  }
+
 }

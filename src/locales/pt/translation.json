@@ -1,7 +1,16 @@
 {
-  "about": "Sobre nós",
-  "products": "Produtos",
-  "esg": "ESG",
-  "news": "Notícias",
-  "contact": "Contactos"
+  "nav": {
+    "about": "Sobre nós",
+    "products": "Produtos e Serviços",
+    "esg": "ESG",
+    "news": "Notícias",
+    "contact": "Contactos"
+  },
+  "products-page": {
+    "service1": "Design de produto",
+    "service2": "Desenvolvimento de malhas",
+    "service3": "Modelagem, Corte, Confeção e Embalamento",
+    "service4": "Aplicação de transferes, fitas refletoras, estampados bordados"
+  }
 }
+

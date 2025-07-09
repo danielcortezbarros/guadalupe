@@ -1,7 +1,15 @@
 {
-  "about": "À propos de nous",
-  "products": "Produits",
-  "esg": "ESG",
-  "news": "Nouvelles",
-  "contact": "Contact"
+  "nav": {
+    "about": "À propos de nous",
+    "products": "Produits & Services",
+    "esg": "ESG",
+    "news": "Nouvelles",
+    "contact": "Contact"
+  },
+  "products-page": {
+    "service1": "Conception de produit",
+    "service2": "Développement de maille",
+    "service3": "Modélisme, Coupe, Confection et Emballage",
+    "service4": "Application de transferts, bandes réfléchissantes, impressions et broderies"
+  }
 }
