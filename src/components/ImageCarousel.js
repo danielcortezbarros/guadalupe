@@ -2,18 +2,22 @@ import ImageGallery from "react-image-gallery";
 // import stylesheet if you're not already using CSS @import
 import "react-image-gallery/styles/css/image-gallery.css";
 
+import gallery1 from '../assets/gallery1.jpg'
+import gallery2 from '../assets/gallery1.jpg'
+import gallery3 from '../assets/gallery1.jpg'
+
 const images = [
   {
-    original: "/assets/gallery1.jpg",
-    thumbnail: "/assets/gallery1.jpg",
+    original: gallery1,
+    thumbnail: gallery1,
   },
   {
-    original: "/assets/gallery2.jpg",
-    thumbnail: "/assets/gallery2.jpg",
+    original: gallery2,
+    thumbnail: gallery2,
   },
   {
-    original: "/assets/gallery3.jpg",
-    thumbnail: "/assets/gallery3.jpg",
+    original: gallery3,
+    thumbnail: gallery3,
   },
 ];
 

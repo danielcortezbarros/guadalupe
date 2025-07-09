@@ -1,5 +1,8 @@
 import { useTranslation } from "react-i18next";
 
+import product1 from '../assets/product1.jpg'
+import product2 from '../assets/product2.jpg'
+import product3 from '../assets/product3.jpg'
 
 const Products = () => {
     const { t, i18n } = useTranslation();
@@ -16,13 +19,13 @@ const Products = () => {
             </div>
             <div className="products-boxes-container">
                 <div className="product-box">
-                    <img src= "/assets/product1.jpg"/>
+                    <img src={product1}/>
                 </div>
                 <div className="product-box">
-                    <img src= '/assets/product2.jpg'/>
+                    <img src={product2}/>
                 </div>
                 <div className="product-box">
-                    <img src= '/assets/product3.jpg'/>
+                    <img src={product3}/>
                 </div>
             </div>
        
