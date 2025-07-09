@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/guadalupe/static/css/main.e8b32576.css",
-    "main.js": "/guadalupe/static/js/main.bf97f060.js",
+    "main.js": "/guadalupe/static/js/main.938f6b6c.js",
     "static/js/453.1a877d93.chunk.js": "/guadalupe/static/js/453.1a877d93.chunk.js",
+    "static/media/header.jpg": "/guadalupe/static/media/header.f5c64942291aa6c4c798.jpg",
+    "static/media/logo_white.png": "/guadalupe/static/media/logo_white.c5b8e551e213517d80a1.png",
     "index.html": "/guadalupe/index.html",
     "main.e8b32576.css.map": "/guadalupe/static/css/main.e8b32576.css.map",
-    "main.bf97f060.js.map": "/guadalupe/static/js/main.bf97f060.js.map",
+    "main.938f6b6c.js.map": "/guadalupe/static/js/main.938f6b6c.js.map",
     "453.1a877d93.chunk.js.map": "/guadalupe/static/js/453.1a877d93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b32576.css",
-    "static/js/main.bf97f060.js"
+    "static/js/main.938f6b6c.js"
   ]
 }
